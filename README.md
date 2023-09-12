@@ -4,11 +4,6 @@
  Using the grep command and piping to search for files and return specific information. Obtaining the information from different files, including server log files and user data files. Using Linux commands in the Bash shell to complete these task.
 <br />
 
-
-
-
-
-
 <h2>Securtiy Frameworks</h2>
 
 - <b>grep</b> 
@@ -19,9 +14,9 @@
 
  <h4>
 Searched for error messages in a file: </h4>
-<img src="https://imgur.com/oXi2ovd.png" height="65%" width="70%" alt="Security Audit"/>
+<img src="https://imgur.com/nqY8U9l.png" height="65%" width="70%" alt="Security Audit"/>
 <h4>
 Searched for files that contain a specific string:  </h4>
-<img src="https://imgur.com/tDomyII.png" height="65%" width="65%" alt="Security Audit"/>
+<img src="https://imgur.com/X2csTMT.png" height="65%" width="65%" alt="Security Audit"/>
 <h4>Searched for information in user files:  </h4>
-<img src="https://imgur.com/cj7b7DR.png" height="65%" width="65%" alt="Security Audit"/>
+<img src="https://imgur.com/VyfxXkE.png" height="65%" width="65%" alt="Security Audit"/>
